@@ -1,1 +1,11 @@
-# mon-site
+# mon-site<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon site</title>
+</head>
+<body>
+    <h1>Bonjour !</h1>
+    <p>Mon premier site est en ligne.</p>
+</body>
+</html>
